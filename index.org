@@ -1,3 +1,9 @@
-* Index page
-  - item 1
-  - item 2
+#+TITLE:       Glen's blog site
+#+AUTHOR:      Glen Dai
+#+EMAIL:       gafglen@gmail.com
+#+DATE:        2014-11-26 Wen
+#+URI:         /
+#+KEYWORDS:    Lisp, Scheme, Emacs, Linux, Java, C++, Org-page, Programming, Blog, golang
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:nil -:t f:t *:t <:t
+#+DESCRIPTION: Glen's blog
